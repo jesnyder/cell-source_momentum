@@ -1,0 +1,17 @@
+beautifulsoup4
+bs4
+collection
+datetime
+google-search-results
+googlemaps
+html5
+lxml
+nested-lookup
+nsfsearch
+pandas_read_xml
+pypatent
+scholarly
+selenium
+requests
+uspto-opendata-python
+wikipedia
