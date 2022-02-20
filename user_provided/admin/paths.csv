@@ -1,0 +1,23 @@
+name,path
+
+#, admin
+html_index,index.html
+format,user_provided admin format.csv
+write_paths,program_generated admin paths.csv
+type_article,user_provided admin type_article.csv
+term_search,user_provided term_search search.csv
+term_compare,user_provided term_compare
+stop_words,user_provided admin stop_words.csv
+
+#, acquire info
+nih_awards_downloaded,user_provided nih_awards
+nsf_awards_downloaded,user_provided nsf_awards
+clinical_trials_downloaded,user_provided clinical_trials
+
+#, gscholar
+json_archival,user_provided gscholar json_archival
+article_url_scraped,user_provided gscholar article scraped_url.csv
+
+#, map
+all_institutions,program_generated map all_institutions.csv
+blank_map,user_provided blank_map blankMap17.png
